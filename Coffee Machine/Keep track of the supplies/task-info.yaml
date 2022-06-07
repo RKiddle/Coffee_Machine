@@ -260,5 +260,5 @@ files:
         CoffeeMachineTest('machine.coffee_machine').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/5794#comment
-status: Unchecked
-record: -1
+status: Solved
+record: 4
